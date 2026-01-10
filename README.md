@@ -77,7 +77,7 @@ automation, scalability, and blockchain security**.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sonubhagatpur&show_icons=true&theme=radical)
 
 ---
 
