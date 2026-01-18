@@ -83,9 +83,7 @@ automation, scalability, and blockchain security**.
 
 ## 📫 Connect With Me
 
-- 💼 Freelance / Consulting: *(Add your Fiverr / Upwork link)*
-- 📧 Email: *(optional)*
-- 💬 Telegram / LinkedIn: *(optional)*
+- 💬 LinkedIn: *[https://www.linkedin.com/in/sonu-singh-blockchain](https://www.linkedin.com/in/sonu-singh-blockchain)*
 
 ---
 
