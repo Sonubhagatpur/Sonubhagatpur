@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Sonu Singh
 
-**Full-Stack Developer | Web2 + Web3 | Blockchain**
+**Full-Stack Developer | Blockchain & Web3**
 
-I build **scalable web applications, backend systems, and blockchain-powered products**.
+I build scalable web applications, backend systems, and blockchain-powered products.
 
-💻 **Web2:** React, Next.js, Node.js, Fastify, PostgreSQL, Drizzle ORM
+💻 **Stack:** React, Next.js, Node.js, Fastify, PostgreSQL, Drizzle ORM
 
-⛓️ **Web3:** Solidity, Ethereum, BNB Chain, DeFi, Smart Contracts
+⛓️ **Blockchain:** Solidity, Ethereum, BNB Chain, DeFi, Smart Contracts
 
 🛠️ **Also:** REST APIs, WebSockets, Docker, Git
 
-I enjoy building everything from **e-commerce & SaaS applications to DeFi platforms and Web3 systems**.
+I enjoy building everything from **e-commerce and SaaS applications to DeFi and Web3 systems**.
 
 ### 🚀 What I Build
 
