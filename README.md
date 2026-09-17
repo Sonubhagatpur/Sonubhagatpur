@@ -27,5 +27,3 @@ I enjoy building everything from **e-commerce and SaaS applications to DeFi and 
 · 🐙 [GitHub](https://github.com/Sonubhagatpur)
 
 ---
-
-⭐ Building with **Web2 + Web3**
